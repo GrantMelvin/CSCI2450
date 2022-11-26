@@ -11,7 +11,7 @@ public class ExtendedCircle {
 
 	private double radius ; 
 	
-	private Point center ; 
+	private Point center ;  
 	
 	/*
 	 * Constructor for circle with no params passed 

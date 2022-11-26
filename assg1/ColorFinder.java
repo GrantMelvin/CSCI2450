@@ -6,7 +6,7 @@ public class ColorFinder {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Please enter a sentence: ") ;
+		System.out.println("Please enter a sentence: ") ; 
 		
 		// Creates user input object
 		Scanner keyboard = new Scanner(System.in) ;

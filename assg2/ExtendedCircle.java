@@ -9,7 +9,7 @@ public class ExtendedCircle {
 	
 	public static final double  PI = 3.14159 ; 
 
-	private double radius ; 
+	private double radius ;  
 	
 	private Point center ;  
 	
